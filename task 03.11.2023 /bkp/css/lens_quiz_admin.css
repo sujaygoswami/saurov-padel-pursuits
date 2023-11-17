@@ -1,0 +1,62 @@
+.latr_table td input[type="text"],.latr_table td select,.latr_table td textarea{
+	width: 100%!important;
+}	
+
+.latr_table td select.fl_schedule_time_option{
+	width: 100px!important;
+}	
+.latr_table td input.latr_nohours{
+	width: 100px!important;
+}
+.latr_table td input.latr_date{
+	width: 200px!important;
+}
+.latr_table td select.latr_time_option{
+width: 100px!important;
+}
+.latr_table td input[type="button"]{
+	width: 250px!important;
+	padding: 10px;
+}	
+.latr_error{
+	border: 1px solid red!important;
+}
+
+.latr_table_overview td:nth-child(odd){
+	width: 10%;
+}
+.latr_table_overview td:nth-child(even){
+	width: 40%;
+}
+.latr_table_overview td input[type="text"],.latr_table_overview td select,.latr_table_overview td textarea{
+	width: 100%!important;
+}	
+.latr_table_overview td input.latr_date{
+	width: 150px!important;
+}
+.latr_table_overview td input[type="button"], .latr_table_overview td input[type="submit"]{
+	width: 250px!important;
+	padding: 10px;
+}	
+.filter_table{
+	width: 100%;
+	border: 1px solid #d9d5d4;
+}
+.filter_table td{
+	padding: 10px!important;
+}
+.tracking_pagination{
+	list-style: none;
+	padding: 0px;
+	float: left;
+	width: 100%;
+	text-align: right;
+}
+.tracking_pagination li{
+	list-style: none;
+	display: inline;
+	margin: 0px 2px;
+}
+.client_interaction_box{
+	width: 100%;
+}
